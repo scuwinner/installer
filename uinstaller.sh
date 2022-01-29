@@ -100,7 +100,7 @@ echo "删除镜像文件中..."
 rm $tarball
 echo "你现在可以用 ./start-ubuntu.sh 来启动Ubuntu系统了!如发现bug请联系QQ:1065259859 再见!"
 
-#换源,折磨up主
+#换源,折磨up主555
 cd ~ && cd ~ && cd ~
 rm -rf ubuntu-fs/etc/apt/sources.list
 touch ubuntu-fs/etc/apt/sources.list

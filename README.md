@@ -1,2 +1,2 @@
 # installer
-nothing
+install ubuntu in your android phone
